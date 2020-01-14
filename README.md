@@ -1,2 +1,2 @@
 # resumereader
-When you upload a resume resume reader with gives the skills in the resume. 
+When you upload a resume this resumereader with gives the skills in the resume. 
