@@ -1,0 +1,7 @@
+#python -m spacy download en_core_web_sm
+Django
+spacy
+nltk
+pyresparser
+pdfminer.six
+#python -m nltk.downloader words
